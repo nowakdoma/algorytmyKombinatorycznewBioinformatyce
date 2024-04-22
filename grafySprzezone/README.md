@@ -9,7 +9,7 @@
 
 1. Skompiluj wykorzystując polecenie:
     ```bash
-    clang++ main.cpp graf.cpp -o przyklad
+    clang++ main.cpp Graf.cpp -o przyklad
     ```
 2. Uruchom program:
     ```bash
